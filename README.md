@@ -1,1 +1,1 @@
-Screenshots are awailable in the screenshots folder.
+Screenshots are available in the screenshots folder.
